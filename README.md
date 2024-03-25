@@ -10,5 +10,7 @@
 
 `python main.py`
 
+4- Output image: "out.png" & Output text: "file.txt"
+
 **Note:** When you run the python file for the first time, it will download required models for recognition
 
