@@ -1,4 +1,4 @@
-# Arabic OCR Demo
+# Arabic OCR API
 
 1- Install the requirements
 
