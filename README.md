@@ -1,16 +1,12 @@
 # Arabic OCR Demo
 
-1- Install the required dependency:
+1- Install the requirements
 
-`pip install ArabicOcr`
+2- Run the flask server: `flask run`
 
-2- Replace the source image "1.png" with the image you want to analyse.
+3- POST http://127.0.0.1:5000/scan + file
 
-3- Run the python file:
-
-`python main.py`
-
-4- Output image: "out.png" & Output text: "file.txt"
+4- Output text will go to 'results/', and scanned images will go to 'scans/'
 
 **Note:** When you run the python file for the first time, it will download required models for recognition
 
